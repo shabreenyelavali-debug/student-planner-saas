@@ -1,0 +1,1 @@
+function u(){document.getElementById('clock').textContent=new Date().toLocaleTimeString();}setInterval(u,1000);u();
